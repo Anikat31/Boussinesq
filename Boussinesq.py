@@ -26,7 +26,7 @@ else:
     isexplicit = 0.0
 rank = 0
 num_process = 1
-N = 128
+N = 256
 dt = 0.001
 T = 0.1
 save_every = 1
